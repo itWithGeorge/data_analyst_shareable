@@ -48,3 +48,6 @@ It includes **ready-to-use datasets** and **Looker Studio** visuals covering **o
 
 ---
 
+## 📬 Contact
+For further information reach out via email/LinkedIn.
+
