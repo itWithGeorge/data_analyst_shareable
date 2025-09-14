@@ -1,4 +1,4 @@
-# Manufactoring dashboard — BI Analytics in Looker Studio
+# Manufacturing dashboard — BI Analytics in Looker Studio
 
 [![Made with Looker Studio](https://img.shields.io/badge/Made%20with-Looker%20Studio-1a73e8.svg)](#)
 [![Data Source: CSV/Sheets](https://img.shields.io/badge/Data-CSV%20%7C%20Sheets-4caf50.svg)](#)
