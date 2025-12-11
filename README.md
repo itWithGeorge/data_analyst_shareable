@@ -27,6 +27,7 @@ Since **2017**, working as a **software developer**, my toolkit expanded to buil
 | **Web Analytics KPI** (beginner/intermediate) | Looker Studio | GA4 | Source‑segmented KPIs, landing‑page insights, device mix, viewport resolution for FE | [README](./README_looker_ga4_KPI_snufi.md) · [PDF](./looker_ga4_KPI_snufi.pdf) |
 | **Business Performance — Storytelling** (beginner) | Power BI | Excel | Executive KPI cards, Revenue vs PY, YoY growth, narrative callouts | [README](./README_power_bi_excel_storytelling_exam.md) · [PDF](./power_bi_excel_storytelling_exam.pdf) |
 | **Business Performance — Storytelling Pro** (intermediate) | Power BI | Excel | Polished, board‑ready design; KPI clarity, trend → mix → accountability flow | [README](./README_power_bi_excel_storytelling_pro_exam.md) · [PDF](./power_bi_excel_storytelling_pro_exam.pdf) |
+**Weekly Hope — Lottery Prediction Pipeline** (pro) | BigQuery · Apps Script · Cloud Functions · Slack | Historical Excel + Weekly scraper (Sheets) | Automated ingestion → statistical modelling → weekly Slack predictions | [README](./README_weekly_hope.md) |
 
 ---
 

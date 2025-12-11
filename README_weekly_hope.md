@@ -8,7 +8,7 @@
 ---
 
 ## 📄 Arhitecture (PDF)
-**View the architecture:** 👉 [REPORT](./weekly_hope_architecture.pdf)
+**View the architecture:** 👉 [ARCHITECTURE](./weekly_hope_architecture.pdf)
 
 ---
 
@@ -78,4 +78,4 @@ This forms a clean, maintainable **ETL → Analytics → Notification** pipeline
 ---
 
 ## 📬 Contact
-For questions or collaboration, feel free to reach out via email/LinkedIn.
+For further information reach out via email/LinkedIn.
